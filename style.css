@@ -173,6 +173,11 @@ body {
   gap: 0.75rem;
   margin-top: 1rem;
   max-width: 400px;
+  margin: auto;
+}
+
+.join-p {
+  text-align: center;
 }
 
 .join-form label {
@@ -187,8 +192,15 @@ body {
   border-radius: 0.5rem;
   border: 1px solid #d1d5db;
   font-size: 0.9rem;
+  background-color: beige;
 }
 
+.secondary-btn {
+  width: 100%;
+  margin-top: 0.5rem;
+  background-color: #10b981;
+  color: #ffffff;
+}
 /* ==============
    FOOTER
    ============== */
